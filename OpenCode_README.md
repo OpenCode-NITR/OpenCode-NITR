@@ -40,8 +40,8 @@ HackNITR is the flagship hackathon of the National Institute of Technology, Rour
 ---
 
 <div align="center" >
- <a href="https://github.com/OpencodeNIT-R"><img src="https://cdn-icons-png.flaticon.com/128/3291/3291667.png"/></a>   &nbsp;&nbsp;&nbsp;  
- <a href="https://www.facebook.com/OpenCodeCommunity"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png"/></a>   &nbsp;&nbsp;&nbsp; 
- <a href="https://instagram.com/opencode.nitr/"><img src="https://cdn-icons-png.flaticon.com/128/4923/4923005.png"/></a>   &nbsp;&nbsp;&nbsp; 
- <a href="mailto:communityopencode@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/893/893257.png"/></a>
+ <a href="https://github.com/OpencodeNIT-R"><img height= "70" src="https://cdn-icons-png.flaticon.com/128/3291/3291667.png"/></a>   &nbsp;&nbsp;&nbsp;  
+ <a href="https://www.facebook.com/OpenCodeCommunity"><img height= "70" src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png"/></a>   &nbsp;&nbsp;&nbsp; 
+ <a href="https://instagram.com/opencode.nitr/"><img height= "70" src="https://cdn-icons-png.flaticon.com/128/4923/4923005.png"/></a>   &nbsp;&nbsp;&nbsp; 
+ <a href="mailto:communityopencode@gmail.com"><img height= "70" src="https://cdn-icons-png.flaticon.com/128/893/893257.png"/></a>
 </div>
